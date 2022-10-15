@@ -1,0 +1,32 @@
+body{
+    background-color: #8BBCCC;
+}
+h1{
+    color: #5C2E7E;
+    border-bottom-style: inset ;
+}
+figure{
+    display: inline-block;
+    font-size: 0.7rem;
+    margin: 5px;
+}
+
+img.poltrona{
+    width: 24;
+    height: 16px;
+   
+
+}
+
+.col-sm-4{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.col-sm-2{
+    margin-top: 30px;
+}
+
+.col-sm-6{
+    margin-top: 30px;
+}
